@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+Square = __import__('2-square').Square
 # 0-square.py by Alexander Fortuin
 """A module that defines a square """
 
